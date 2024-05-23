@@ -28,6 +28,5 @@ public class Employee {
     private String workmode;
     private String salary;
     private int mobileNo;
-   
     
 }
